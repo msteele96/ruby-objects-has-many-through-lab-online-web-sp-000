@@ -5,15 +5,15 @@ class Genre
   @@all = []
 
   def initialize()
-    
+
   end
 
   def songs
-    
+
   end
 
   def artists
-    
+
   end
 
 end
