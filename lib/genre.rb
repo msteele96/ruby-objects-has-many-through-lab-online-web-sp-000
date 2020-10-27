@@ -4,7 +4,7 @@ class Genre
 
   @@all = []
 
-  def initialize(artist, song)
+  def initialize()
 
   end
 
