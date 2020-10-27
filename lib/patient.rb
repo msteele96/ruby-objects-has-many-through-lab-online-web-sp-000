@@ -14,15 +14,15 @@ class Patient
   end
 
   def new_appointment(date, doctor)
-    
+
   end
 
   def appointments
-    
+
   end
 
   def doctors
-    
+
   end
 
 end
